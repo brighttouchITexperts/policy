@@ -1,4 +1,3 @@
-/*! normalize.css v1.1.3 | MIT License | git.io/normalize */
 article,
 aside,
 details,
@@ -17,8 +16,8 @@ audio,
 canvas,
 video {
   display: inline-block;
-  *display: inline;
-  *zoom: 1;
+  display: inline;
+  zoom: 1;
 }
 audio:not([controls]) {
   display: none;
@@ -177,7 +176,7 @@ legend {
   border: 0;
   padding: 0;
   white-space: normal;
-  *margin-left: -7px;
+  margin-left: -7px;
 }
 button,
 input,
@@ -186,7 +185,7 @@ textarea {
   font-size: 100%;
   margin: 0;
   vertical-align: baseline;
-  *vertical-align: middle;
+  vertical-align: middle;
 }
 button,
 input {
@@ -202,7 +201,7 @@ input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
-  *overflow: visible;
+  overflow: visible;
 }
 button[disabled],
 html input[disabled] {
@@ -212,8 +211,8 @@ input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
   padding: 0;
-  *height: 13px;
-  *width: 13px;
+  height: 13px;
+  width: 13px;
 }
 input[type="search"] {
   -webkit-appearance: textfield;
