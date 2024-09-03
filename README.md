@@ -1,1 +1,26 @@
-# policy
+# BrighttouchITexperts Policy Website
+
+### Make your network your networth with this front-end template for an IT company.
+
+- Responsive Personal Website Hub Design Using HTML CSS And JavaScript
+- Contains sliding images with the Swiper js library.
+- Contains animated images with the Gsap Js library.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- You may download and change images and font for your own personalized feel. 
+💙 Connect with us on Linkedin if you'd like me to do work for you like this 
+
+- [@brighttouchitexperts](https://www.linkedin.com/in/)
+Tech Stack:
+- [Bootstrap](https://www.w3schools.com/html/)
+- [CDNJS - remix 4.2.0](https://cdnjs.com/libraries/remixicon/4.2.0)
+- [Remix Icon Online](https://remixicon.com/)
+- [Swiperjs](https://swiperjs.com/get-started#use-swiper-from-cdn)
+- [GSAP](https://cdnjs.com/libraries/gsap)
+
+### Lets Connect
+![preview img](assets/img/resource/1.png)
+### Lets Create a project
+![preview img](assets/img/resource/2.png)
+### Lets Consult you as a client
+![preview img](assets/img/resource/3.png)
